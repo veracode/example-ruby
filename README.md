@@ -1,6 +1,6 @@
 # [:] Example Ruby Project
 
-An example ruby project to demostrate [srcclr](https://www.srcclr.com) scans.
+An example ruby project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
 ## Try me!
 
