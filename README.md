@@ -1,24 +1,12 @@
-## README
+# [:] Example Ruby Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An example ruby project to demostrate [srcclr](https://www.srcclr.com) scans.
 
-Things you may want to cover:
+## Try me!
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+brew tap srcclr/srcclr
+brew install srcclr
+srcclr activate
+srcclr scan --url https://github.com/srcclr/example-ruby
+```
