@@ -41,3 +41,9 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'administrate', '0.1.4'
+
+gem 'sinatra', '1.1.4'
+gem 'festivaltts4r', '0.2.0'
+gem 'spree', '3.0.7'
+gem 'authlogic', '1.4.3'
+gem 'devise_invitable', '1.3.4'
